@@ -19,8 +19,6 @@ The work is an interactive installation at two separate places. Each place is eq
 
 ![alt text](img/fw_jncom_3.jpg)
 
-![alt text](img/fw_jncom_5.gif)
-
 ## the translucent screen
 
 Initially it was planned to make the actual screen on which the whole piece is presented on a part of the work itself. Sadly I did not manage to build a screen of the size that is actually suiteable for my piece, so I can only reveal my prototype.
@@ -31,4 +29,4 @@ Initially it was planned to make the actual screen on which the whole piece is p
 
 ![alt text](img/fw_jncom_4.jpg)
 
-![alt text](video/fw-jncom-vid.mp4)
+![alt text](https://vimeo.com/291787997)
