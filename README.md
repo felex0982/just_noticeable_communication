@@ -30,5 +30,3 @@ Initially it was planned to make the actual screen on which the whole piece is p
 ![alt text](img/fw_jncom_6.jpg)
 
 ![alt text](img/fw_jncom_4.jpg)
-
-![alt text](https://vimeo.com/291787997)
