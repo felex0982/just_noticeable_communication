@@ -5,6 +5,7 @@ float maxspeed = 3.5;
 float maxforce = 0.06;
 
 //swt: 1.4285715 arwt: 0.3809524 maxspeed: 5.0 maxforce: 0.05952381
+
 class Mover{
 
 PVector position;
